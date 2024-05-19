@@ -1,6 +1,8 @@
 # Web API de Libro 
 Para la creación de una entidad "Libro" que incluya las variables: id, título, autor, editorial y año de publicación, debemos organizar nuestro proyecto en varias capas, cada una en su propia carpeta: services, controllers, repositories y models. 
+
 ![image](https://github.com/Ralonzo99/Libros-Favoritos/assets/147834274/b28224f6-990b-44da-866f-abc846acadcf)
+
 # Creamos la clase libro con los campos, junto con sus getters-setters
 * id: Long
 * titulo: String
