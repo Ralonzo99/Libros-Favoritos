@@ -7,10 +7,15 @@ Para la creación de una entidad "Libro" que incluya las variables: id, título,
 * autor: String
 * editorial: String
 * año de Publicacion: Integer
+  
 ![image](https://github.com/Ralonzo99/Libros-Favoritos/assets/147834274/8be7f55b-2484-4cf3-95f7-d617017d4d15)
+
 # Creación del controllers
+
 Aqui definiremos el get y post
+
 ![image](https://github.com/Ralonzo99/Libros-Favoritos/assets/147834274/bd9ff111-8d1f-47b2-9dbc-f8d475668f6c)
+
 # Creación del repository
 "LibroRepository.java": Definimos los metodos, que vamos a utilizar
 
