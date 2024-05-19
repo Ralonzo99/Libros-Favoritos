@@ -19,7 +19,8 @@ Aqui definiremos el get y post
 ![image](https://github.com/Ralonzo99/Libros-Favoritos/assets/147834274/d6b56c58-5cc4-4268-a44f-2b2dc844626b)
 # Creación del services
 Se encargara de llamar a la instancia repository "LibroService.java" y el "LibroServiceImpl.java" sera nuestra interfaz
-![image](https://github.com/Ralonzo99/Libros-Favoritos/assets/147834274/a910f079-4a92-4d46-9735-27f34bad5a00)    ![image](https://github.com/Ralonzo99/Libros-Favoritos/assets/147834274/fa4496a4-e1ac-483b-b2d1-de572dd07573)
+![image](https://github.com/Ralonzo99/Libros-Favoritos/assets/147834274/a910f079-4a92-4d46-9735-27f34bad5a00)    
+![image](https://github.com/Ralonzo99/Libros-Favoritos/assets/147834274/fa4496a4-e1ac-483b-b2d1-de572dd07573)
 # Ejecución del Web API
 ![image](https://github.com/Ralonzo99/Libros-Favoritos/assets/147834274/d8ca829d-acc5-490e-9691-f070cf6b06d9)
 # Prueba en postman
