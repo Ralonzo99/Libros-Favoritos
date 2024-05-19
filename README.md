@@ -42,5 +42,8 @@ Se encargara de llamar a la instancia repository "LibroService.java" y el "Libro
 
 ![image](https://github.com/Ralonzo99/Libros-Favoritos/assets/147834274/da9a3ff0-5580-4273-8f8e-811735988f10)
 
-![image](https://github.com/Ralonzo99/Libros-Favoritos/assets/147834274/9f647b21-110c-46e8-9555-8fe8c282b103)
+Tambien se puede buscar por el id ejemplo:
+
+![image](https://github.com/Ralonzo99/Libros-Favoritos/assets/147834274/2a371387-0bf4-4ada-aff6-44bc0f7b7172)
+
 
